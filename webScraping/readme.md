@@ -1,3 +1,3 @@
 # Web Scraping
 
-This is based from the tutorial from freecodecamp that is 1 hour long!
+This is based from the tutorial from freecodecamp that teaches scrapy.
